@@ -1,4 +1,7 @@
 # Development
+cargo install --git https://github.com/DioxusLabs/dioxus dioxus-cli
+dx new my_first_app
+dx serve
 
 Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
 
